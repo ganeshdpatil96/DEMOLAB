@@ -1,6 +1,0 @@
-class Test{
-public static void main(System[] args)
-{
-System.out.println("NWE LAB TEST");
-{
-}
